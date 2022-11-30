@@ -1,2 +1,2 @@
-学习了git.
- 上班都用的是 git.
+learn git.
+git let us work together.
